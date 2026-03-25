@@ -22,7 +22,7 @@ The required packages are:
 - re
 
 Cite as:
-Lorenzo Corgnati. (2026). EU_HFR_NODE_cleanOGSgeoportalDataset. DOI: 
+Lorenzo Corgnati. (2026). EU_HFR_NODE_cleanOGSgeoportalDataset. DOI: 10.5281/zenodo.19223367
 
 
 Author: Lorenzo Corgnati

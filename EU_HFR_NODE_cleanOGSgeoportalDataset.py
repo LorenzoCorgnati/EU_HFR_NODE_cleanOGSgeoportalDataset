@@ -50,10 +50,10 @@ def main(argv):
             memory = int(arg)
             
     # Create logger
-    logger = logging.getLogger('EU_HFR_NODE_cleanOGSgeoportalDataset')
+    logger = logging.getLogger('EU_HFR_NODE_NRT_cleanOGSgeoportalDataset')
     logger.setLevel(logging.INFO)
     # Create logfile handler
-    logFilename = '/var/log/EU_HFR_NODE_NRT/EU_HFR_NODE_cleanOGSgeoportalDataset.log'
+    logFilename = '/var/log/EU_HFR_NODE_NRT/EU_HFR_NODE_NRT_cleanOGSgeoportalDataset.log'
     lfh = logging.FileHandler(logFilename)
     lfh.setLevel(logging.INFO)
     # Create formatter
